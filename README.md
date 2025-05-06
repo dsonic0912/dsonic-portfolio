@@ -1,12 +1,6 @@
-# **Magic Portfolio by Once UI**
-
-View the [demo here](https://demo.magic-portfolio.com).
-
-![Magic Portfolio](https://demo.magic-portfolio.com/images/og/home.jpg)
-
 # **Getting started**
 
-Magic Portfolio was built with [Once UI](https://once-ui.com) for [Next.js](https://nextjs.org). It requires Node.js v18.17+.
+dSonic Portfolio was built with [Once UI](https://once-ui.com) for [Next.js](https://nextjs.org). It requires Node.js v18.17+.
 
 **1. Clone the repository**
 
